@@ -1,0 +1,20 @@
+@media (max-width: 575px) {
+	.menu {
+		position: static;
+		width: 100%;
+		text-align: center;
+	}
+	.div {
+		padding-left: 29px;
+	}
+	.designersflex {
+		display: block;
+	}
+	.team {
+		width: 100%;
+		margin-bottom: 24px;
+	}
+	ol {
+ 	width: 100%;
+ 	margin: 13px;	
+ 	}
